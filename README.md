@@ -6,9 +6,9 @@ This repository contains the corpus created for the paper "Classifying Spanish s
 
 The corpus is available as three files:
 
-* [se_classification_train.csv]: training split.
-* [se_classification_test.csv]: test split.
-* [se_classification_balanced_train.csv]: oversampled version of training split (for reproducing the paper experiments).
+* [se_classification_train.csv](./se_classification_train.csv): training split.
+* [se_classification_test.csv](./se_classification_test.csv): test split.
+* [se_classification_balanced_train.csv](./se_classification_balanced_train.csv): oversampled version of training split (for reproducing the paper experiments).
 
 They are tab-separated files with header and one row per text. The columns are:
 
