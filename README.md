@@ -1,3 +1,18 @@
+
+     .----------------.  .----------------. 
+    | .--------------. || .--------------. |
+    | |    _______   | || |  _________   | |
+    | |   /  ___  |  | || | |_   ___  |  | |
+    | |  |  (__ \_|  | || |   | |_  \_|  | |
+    | |   '.___`-.   | || |   |  _|  _   | |
+    | |  |`\____) |  | || |  _| |___/ |  | |
+    | |  |_______.'  | || | |_________|  | |
+    | |              | || |              | |
+    | '--------------' || '--------------' |
+     '----------------'  '----------------' 
+
+---
+
 # Classifying Spanish se constructions: from bag of words to language models
 
 This repository contains a reduced version of the SE-corpus, created for the paper "Classifying Spanish se constructions: from bag of words to language models" by Nuria Aldama and Álvaro Barbero, published at the SEPLN journal 2020 april edition. A notebook to reproduce the paper experiments is also included.
