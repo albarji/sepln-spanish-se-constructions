@@ -93,7 +93,7 @@ They are tab-separated files with header and one row per text. The columns are:
 
 The experiments can be reproduced by using the provided [multiclass_classification_SE.ipynb](./multiclass_classification_SE.ipynb) notebook. We recommend to use a [Google Colab](colab.research.google.com/) instance with GPU.
 
-## Citations
+## Citing us
 
 If you use this corpus or the notebook in this repository, please cite us as
 
