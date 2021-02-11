@@ -1,8 +1,66 @@
 # Classifying Spanish se constructions: from bag of words to language models
 
-This repository contains the corpus created for the paper "Classifying Spanish se constructions: from bag of words to language models" by Nuria Aldama and Álvaro Barbero, published at the SEPLN journal 2020 april edition. A notebook to reproduce the paper experiments is also included.
+This repository contains a reduced version of the SE-corpus, created for the paper "Classifying Spanish se constructions: from bag of words to language models" by Nuria Aldama and Álvaro Barbero, published at the SEPLN journal 2020 april edition. A notebook to reproduce the paper experiments is also included.
 
-## Corpus
+## SE-corpus reduced version
+
+The SE-corpus reduced version (from now on SE-corpus) is composed of 2140 sentences that come from CORPES XXI. The sentence selection procedure starts picking up, from the whole CORPES XXI, every sentence that contains the word `se` and belongs to the news, leisure and daily life domain in the European Spanish variant. From the output of this retrieval query, 3000 sentences (complete SE-corpus) are randomly selected. Through the last filter, those sentences having more than one instance of `se` are eliminated. Summing-up, the corpus used to carry out this research is composed of 2140 sentences containing a single instance of `se`. The corpus is representative of the news, leisure and daily life domain in the European Spanish variant because it maintains real usage distribution of se constructions.
+
+The annotation process is carried out following the next annotation criteria (examples follow)
+
+* `se-mark`: cases of valency reduction (examples 6-9).
+* `expl`: pure pronominal predicates or emphatic contexts (examples 4–5).
+* `iobj`: `se` as indirect object of the main predicate (examples 1 and 3).
+* `obj`: `se` as direct object of the main predicate (example 2).
+
+Corpus examples
+
+    (1)
+    Se      lo     dije         a  Juan ayer      .
+    Him-DAT it-ACC tell-PST.1SG to Juan yesterday .
+    ‘I told it to Juan yesterday.’
+
+    (2)
+    Juan se          peina        .
+    Juan himself-ACC comb-PRS.3SG .
+    ‘Juan combs himself.’
+
+    (3)	
+    Ellos se       envían       cartas.
+    They  them-DAT send-PRS.3PL letters.
+    ‘They send letters to each other.’
+        
+    (4)
+    Juan se  desmayó       de repente .
+    Juan him faint-PST.3SG suddenly   .
+    ‘Juan suddenly fainted.’
+
+    (5)	
+    Juan (se) comió       un bocadillo.
+    Juan him  eat-PST.3SG a  sandwich.
+    ‘Juan ate a sandwich.’
+        
+    (6)	
+    El  jarrón se  rompió        .
+    The vase   -   break-PST.3SG .
+    ‘The vase broke.’
+
+    (7)	
+    La  camisa se lava         muy	bien .
+    The shirt  -  wash-PRS.3SG very well .
+    ‘The shirt washes very well.’
+    
+    (8)	
+    Se buscan           camareros  .
+    -  look.for-PRS.3PL bartenders .
+    ‘Bartenders are required.’
+
+    (9)	
+    Se come        bien aquí .
+    -  eat-PRS.3SG well here .
+    ‘It's a good place to eat in here.'
+    
+### Corpus download
 
 The corpus is available as three files:
 
