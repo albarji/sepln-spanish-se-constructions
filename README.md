@@ -98,3 +98,9 @@ The experiments can be reproduced by using the provided [multiclass_classificati
 If you use this corpus or the notebook in this repository, please cite us as
 
     AVAILABLE SOON! (once the journal version is released)
+
+## Acknowledgements
+
+We would like to thank Cristina Sánchez López and Amaya Mendikoetxea Pelayo for their help and dedication in the development of this study.
+
+The authors acknowledge financial support from PID2019-106827GB-I00 / AEI / 10.13039/501100011033 and from the European Regional Development Fund and from the Spanish Ministry of Economy, Industry, and Competitiveness - State Research Agency, project TIN2016-76406-P (AEI/FEDER, UE).
