@@ -97,7 +97,7 @@ The experiments can be reproduced by using the provided [multiclass_classificati
 
 If you use this corpus or the notebook in this repository, please cite us as
 
-    AVAILABLE SOON! (once the journal version is released)
+    Aldama-García, N., Barbero, A. (2021). Classifying Spanish se constructions: from bag of words to language models. Procesamiento del Lenguaje Natural, in press.
 
 ## Acknowledgements
 
