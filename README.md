@@ -15,7 +15,7 @@
 
 # Classifying Spanish se constructions: from bag of words to language models
 
-This repository contains a reduced version of the SE-corpus, created for the paper "Classifying Spanish se constructions: from bag of words to language models" by Nuria Aldama and Álvaro Barbero, published at the SEPLN journal 2021 march edition. A notebook to reproduce the paper experiments is also included.
+This repository contains a reduced version of the SE-corpus, created for the paper [Classifying Spanish se constructions: from bag of words to language models](http://journal.sepln.org/sepln/ojs/ojs/index.php/pln/article/view/6331/3760) by Nuria Aldama and Álvaro Barbero, published at the SEPLN journal 2021 march edition. A notebook to reproduce the paper experiments is also included.
 
 ## SE-corpus reduced version
 
@@ -97,7 +97,7 @@ The experiments can be reproduced by using the provided [multiclass_classificati
 
 If you use this corpus or the notebook in this repository, please cite us as
 
-    Aldama-García, N., Barbero, A. (2021). Classifying Spanish se constructions: from bag of words to language models. Procesamiento del Lenguaje Natural, in press.
+    Aldama-García, N., Barbero, A. (2021). Classifying Spanish se constructions: from bag of words to language models. Procesamiento del Lenguaje Natural 66, 153-164. ISSN 1989-7553. DOI 10.26342/2021-66-13.
 
 ## Acknowledgements
 
